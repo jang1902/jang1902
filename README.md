@@ -7,13 +7,12 @@ Hello, welcome to my github. I am Giang. I am studying Software Engineering at F
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jang1902)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
- <div>
-<h1>Social<h1/>
+<h1>Social
  <h4>You can find me at:<h4>
  <ul>
   <li>maigiang010902@gmail.com
   <li><a href="facebook.com/jang1902">Facebook<a/>
    <ul/>
    <br/>
-   <div/>
-<h2>Thank you!!!<h2/>
+   
+Thank you
