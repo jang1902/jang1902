@@ -8,9 +8,8 @@ Hello, welcome to my github. I am Giang. I am studying Software Engineering at F
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jang1902)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
   <h1>Social<h1/><br/>
-   <p>You can find me at:
+   <p>You can find me at:<p/>
     <ul>
       <li>maigiang010902@gmail.com<li/>
       <li><a href="https://www.facebook.com/jang1902/">Facebook<a/><li/>
      <ul/>
-       <p/>
