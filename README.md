@@ -10,6 +10,6 @@ Hello, welcome to my github. I am Giang. I am studying Software Engineering at F
 <h1>Social<h1/>
  <h4>You can find me at:<h4/>
  <ul>
-  <li>maigiang010902@gmail.com<li/>
-  <li><a href="facebook.com/jang1902">Facebook<a/><li/>
+  <li>maigiang010902@gmail.com
+  <li><a href="facebook.com/jang1902">Facebook<a/>
   <ul/>
