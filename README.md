@@ -1,4 +1,4 @@
-Hello, welcome to my github. I am Giang. I am studying Software Engineering at FPT University in Hanoi.<br/>
+.<br/>
 Contact: <a href="https://www.facebook.com/jang1902"/>Facebook<a/> | maigiang010902@gmail.com
 
 [![jang1902's github stats](https://github-readme-stats.vercel.app/api?username=jang1902)](https://github.com/jang1902/)
