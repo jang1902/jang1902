@@ -9,6 +9,6 @@ Contact: <a href="https://www.facebook.com/jang1902"/>Facebook<a/> | maigiang010
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jang1902)](https://github.com/anuraghazra/github-readme-stats)
  
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jang1902/jang1902/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jang1902/jang1902/output/github-contribution-grid-snake-dark.svg" />
 
 ###
